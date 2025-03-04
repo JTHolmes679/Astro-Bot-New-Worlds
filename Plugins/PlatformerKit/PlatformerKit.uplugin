@@ -18,6 +18,10 @@
 		{
 			"Name": "Charging-System",
 			"Enabled": true
+		},
+		{
+			"Name": "AstrobotInteractPlugin",
+			"Enabled": true
 		}
 	]
 }
