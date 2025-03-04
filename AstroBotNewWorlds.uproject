@@ -18,6 +18,14 @@
 		{
 			"Name": "AstrobotInteractPlugin",
 			"Enabled": true
+		},
+		{
+			"Name": "EnemyPlugins",
+			"Enabled": true
+		},
+		{
+			"Name": "Checkpoint_System",
+			"Enabled": true
 		}
 	]
 }
