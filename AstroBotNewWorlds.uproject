@@ -20,11 +20,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "Checkpoint_System",
+			"Name": "EnemyPlugins",
 			"Enabled": true
 		},
 		{
-			"Name": "EnemyPlugins",
+			"Name": "Checkpoint_System",
 			"Enabled": true
 		}
 	]
