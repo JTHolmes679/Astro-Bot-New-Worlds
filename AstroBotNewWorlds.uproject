@@ -20,15 +20,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "EnemyPlugins",
-			"Enabled": true
-		},
-		{
 			"Name": "Checkpoint_System",
 			"Enabled": true
 		},
 		{
-			"Name": "FrogArms",
+			"Name": "EnemyPlugins",
 			"Enabled": true
 		}
 	]
