@@ -26,6 +26,10 @@
 		{
 			"Name": "Checkpoint_System",
 			"Enabled": true
+		},
+		{
+			"Name": "FrogArms",
+			"Enabled": true
 		}
 	]
 }
