@@ -26,6 +26,10 @@
 		{
 			"Name": "EnemyPlugins",
 			"Enabled": true
+		},
+		{
+			"Name": "FrogArms",
+			"Enabled": true
 		}
 	]
 }
