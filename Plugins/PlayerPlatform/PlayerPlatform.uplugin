@@ -2,17 +2,22 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "AstrobotTriggerSystem",
+	"FriendlyName": "PlayerPlatform",
 	"Description": "",
 	"Category": "Other",
-	"CreatedBy": "Jacob Holmes",
+	"CreatedBy": "Ryan Dale",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
-	"EngineVersion": "5.4.0",
 	"CanContainContent": true,
-	"Installed": true,
 	"IsBetaVersion": false,
-	"IsExperimentalVersion": false
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "AstrobotInteractPlugin",
+			"Enabled": true
+		}
+	]
 }
