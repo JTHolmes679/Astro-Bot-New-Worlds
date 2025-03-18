@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"Version": 1,
 	"VersionName": "1.0",
-	"FriendlyName": "AstrobotInteractPlugin",
+	"FriendlyName": "AstrobotTriggerSystem",
 	"Description": "",
 	"Category": "Other",
 	"CreatedBy": "Jacob Holmes",
@@ -12,5 +12,7 @@
 	"SupportURL": "",
 	"EngineVersion": "5.4.0",
 	"CanContainContent": true,
-	"Installed": true
+	"Installed": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
 }
