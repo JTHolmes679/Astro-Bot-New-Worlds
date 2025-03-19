@@ -14,6 +14,22 @@
 		{
 			"Name": "AstrobotCollectables",
 			"Enabled": true
+		},
+		{
+			"Name": "AstrobotInteractPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "Checkpoint_System",
+			"Enabled": true
+		},
+		{
+			"Name": "EnemyPlugins",
+			"Enabled": true
+		},
+		{
+			"Name": "FrogArms",
+			"Enabled": true
 		}
 	]
 }
