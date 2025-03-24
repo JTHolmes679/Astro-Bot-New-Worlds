@@ -30,10 +30,6 @@
 		{
 			"Name": "FrogArms",
 			"Enabled": true
-		},
-		{
-			"Name": "UdpMessaging",
-			"Enabled": false
 		}
 	]
 }
