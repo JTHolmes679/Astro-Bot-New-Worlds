@@ -30,6 +30,10 @@
 		{
 			"Name": "FrogArms",
 			"Enabled": true
+		},
+		{
+			"Name": "AstroBotEnemyBehaviour",
+			"Enabled": true
 		}
 	]
 }
