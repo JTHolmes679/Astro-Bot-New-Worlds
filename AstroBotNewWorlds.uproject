@@ -10,6 +10,14 @@
 			"TargetAllowList": [
 				"Editor"
 			]
+		},
+		{
+			"Name": "AstroBotEnemyBehaviour",
+			"Enabled": true
+		},
+		{
+			"Name": "EnemyPlugins",
+			"Enabled": true
 		}
 	]
 }
