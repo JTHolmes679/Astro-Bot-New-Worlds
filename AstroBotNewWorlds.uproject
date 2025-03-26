@@ -24,11 +24,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "EnemyPlugins",
+			"Name": "FrogArms",
 			"Enabled": true
 		},
 		{
-			"Name": "FrogArms",
+			"Name": "AstroBotEnemyBehaviour",
 			"Enabled": true
 		}
 	]
