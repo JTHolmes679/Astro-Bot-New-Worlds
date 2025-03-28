@@ -34,6 +34,10 @@
 		{
 			"Name": "EnemyPlugins",
 			"Enabled": true
+		},
+		{
+			"Name": "AstroBotEnemyBehaviour",
+			"Enabled": true
 		}
 	]
 }
